@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repo for the Data Science Class - dic2014
+Repo for the Data Science Class - dec2014
